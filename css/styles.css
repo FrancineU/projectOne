@@ -33,3 +33,10 @@ body{
 nav >ul{
     text-align: center;
 }
+nav >ul >li{
+    text-decoration: none;
+display: inline-block;
+}
+nav > ul >li >h4{
+    display:inline-block
+}
