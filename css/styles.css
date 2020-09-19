@@ -45,6 +45,8 @@ nav>ul>li{
 }
 nav > ul >li >h4{
     display:inline-block;
+    color:#F5F5F5;
+  
 }
 nav > ul > li > h4>a{
     padding:5px;
@@ -58,4 +60,10 @@ nav > ul > li>h4>a:hover{
     box-shadow: 0 0 10px rgba(0,0,0.1), inset 0 0 1px rgba(255,255,255,0.6);
     background-color: slategray;
     columns: darkgreen;
+}
+ h3{
+  
+    color:White;
+    display: inline-block;
+    
 }
