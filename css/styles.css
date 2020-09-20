@@ -18,9 +18,7 @@
     margin-left:70%;
     margin-top:10%;
     padding: 13%;
-   
-
- height: 50%;
+   height: 50%;
 }
 .navbar{
     padding: 20.5%;
@@ -76,15 +74,40 @@ nav > ul > li>h4>a:hover{
 }
 
 .down{
-    padding:10%;
+    padding:2%;
     background-color:#02052A;
 
   position: relative;
-  top: -7.6%;
+  top:5%;
 }
 .container h1{
     text-align:left;
     margin-left: -20%;
     margin-top: 26%;
     color: whitesmoke;
+}
+.down h2{
+    color: whitesmoke;
+}
+#columns{
+    height: 200px;
+    width:200px ;
+    padding: 18px;
+    border: 0px solid white;
+    box-sizing: content-box;
+    background-color: 0 0 10px rgba(0,0,0,0.1), inset 0 0 1px rgba(255,255,255,0.6); 
+    text-align: center;
+}
+
+.down p  {
+    color:whitesmoke;
+    border: 0px solid white;
+    box-sizing: content-box;
+    text-align: justify;
+    
+}
+ box{
+        display: flex;
+      justify-content: space-around;
+      
 }
