@@ -1,4 +1,4 @@
-body{
+.container{
     background-image:url(https://wallpaperaccess.com/full/983837.png);
   background-repeat: no-repeat; 
    background-size: cover;
@@ -8,31 +8,34 @@ body{
    left: 0;
    right: 0;
    bottom: 0;
-   
-   background-color: rgba(0, 0, 0, 0.1);
-  
+  position:absolute;
+    
    }
 
-.container{
+.transparent{
     background-image: url(https://miro.medium.com/max/1024/1*fce5XyX2jYROR94Ow4WjdQ.jpeg);
     background-size: cover;
     margin-left:70%;
     margin-top:10%;
     padding: 13%;
    
- width: 1%;
+
  height: 50%;
 }
-
+.navbar{
+    padding: 20.5%;
+    opacity: 0.7;
+    
+}   
 nav{
     margin:0 auto;
     padding: -20% 0;
-  width: 98%;
+  width: 169%;
     background-color: rgba(0, 0, 0, 0.1);
-    z-index:3;
+
     margin-top: -37%;
-    margin-left: -0.6%;
-    background-size: cover;
+   margin-left:-34.6%;
+  
 } 
 
 nav >ul{
@@ -66,4 +69,22 @@ nav > ul > li>h4>a:hover{
     color:White;
     display: inline-block;
     
+}
+.content{
+    text-align: left;
+    color: whitesmoke;
+}
+
+.down{
+    padding:10%;
+    background-color:#02052A;
+
+  position: relative;
+  top: -7.6%;
+}
+.container h1{
+    text-align:left;
+    margin-left: -20%;
+    margin-top: 26%;
+    color: whitesmoke;
 }
