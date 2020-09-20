@@ -31,7 +31,7 @@ nav{
   width: 169%;
     background-color: rgba(0, 0, 0, 0.1);
 
-    margin-top: -37%;
+    margin-top: -67%;
    margin-left:-34.6%;
   
 } 
@@ -74,7 +74,7 @@ nav > ul > li>h4>a:hover{
 }
 
 .down{
-    padding:2%;
+    padding:8%;
     background-color:#02052A;
 
   position: relative;
